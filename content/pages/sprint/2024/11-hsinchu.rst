@@ -11,6 +11,7 @@ Date
 
 * Date: 2nd November, Saturday, 2024
 * Time: 10:00 -- 17:00 (7 hours)
+* test CI
 
 |
 
